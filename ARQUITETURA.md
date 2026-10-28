@@ -65,8 +65,7 @@ nem o suporte semântico de cada afirmação.
 O histórico reapresenta o resultado original sem executar novamente o pipeline.
 Histórico e feedback possuem persistência separada.
 
-Consulte o [relatório atual](docs/CORRECOES_RESPOSTAS_2026-10-21.md)
-e o [README](README.md) para configuração, evidências e limitações.
+O relatório detalhado das correções de respostas não está incluído nesta versão pública do repositório. Consulte o [README](README.md) para informações sobre configuração, evidências e limitações.
 
 ## Planejamento inicial preservado
 
