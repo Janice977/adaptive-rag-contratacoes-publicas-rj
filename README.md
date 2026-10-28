@@ -29,7 +29,7 @@ Na versão apresentada no Demo Day, o corpus de referência foi descrito com 2.1
 
 ## Instalação local (orientação inicial; requer validação independente)
 
-Pré-requisitos: Python 3.11+ (a compatibilidade exata com seu sistema operacional ainda deve ser testada), Git e um **serviço de LLM/embeddings compatível e acessível**, com os modelos adequados aos índices fornecidos.
+Pré-requisitos: Python 3.11+ (a compatibilidade exata com seu sistema operacional ainda deve ser testada), Git e um **serviço de LLM/embeddings compatível e acessível**, com modelos compatíveis com os índices utilizados no ambiente original do projeto.
 
 ```bash
 git clone https://github.com/Janice977/adaptive-rag-contratacoes-publicas-rj.git
