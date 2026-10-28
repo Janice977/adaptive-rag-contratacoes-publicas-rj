@@ -16,7 +16,7 @@ Python, Gradio, FAISS, BM25 (`rank-bm25`), fusão RRF, embeddings, LLMs por endp
 
 ## Dados do protótipo
 
-Corpus de referência: **2.172 chunks** de quatro bases (estruturada, normativa, documental/conversacional e agregada). O recorte inclui **1.358 registros do PNCP** associados ao RJ e a março de 2026, Lei nº 14.133/2021, atas e planilhas de PCA e de um pregão específico. Os índices e arquivos normalizados de referência estão em `data/v3_definitivo/`. O corpus é limitado e **não consulta todo o PNCP em tempo real**.
+Corpus de referência: **2.172 chunks** de quatro bases (estruturada, normativa, documental/conversacional e agregada). O recorte inclui **1.358 registros do PNCP** associados ao RJ e a março de 2026, Lei nº 14.133/2021, atas e planilhas de PCA e de um pregão específico.Os índices e arquivos normalizados de referência foram utilizados no ambiente de desenvolvimento do projeto, mas não estão disponibilizados nesta versão pública do repositório. O corpus é limitado e **não consulta todo o PNCP em tempo real**.
 
 ## Estrutura
 
