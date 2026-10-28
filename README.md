@@ -16,13 +16,13 @@ Python, Gradio, FAISS, BM25 (`rank-bm25`), fusão RRF, embeddings, LLMs por endp
 
 ## Dados do protótipo
 
-Corpus de referência: **2.172 chunks** de quatro bases (estruturada, normativa, documental/conversacional e agregada). O recorte inclui **1.358 registros do PNCP** associados ao RJ e a março de 2026, Lei nº 14.133/2021, atas e planilhas de PCA e de um pregão específico.Os índices e arquivos normalizados de referência foram utilizados no ambiente de desenvolvimento do projeto, mas não estão disponibilizados nesta versão pública do repositório. O corpus é limitado e **não consulta todo o PNCP em tempo real**.
+Na versão apresentada no Demo Day, o corpus de referência foi descrito com 2.172 chunks, distribuídos em quatro bases: estruturada, normativa, documental/conversacional e agregada. O recorte inclui **1.358 registros do PNCP** associados ao RJ e a março de 2026, Lei nº 14.133/2021, atas e planilhas de PCA e de um pregão específico. Os índices e arquivos normalizados de referência foram utilizados no ambiente de desenvolvimento do projeto, mas não estão disponibilizados nesta versão pública do repositório. O corpus é limitado e **não consulta todo o PNCP em tempo real**.
 
 ## Estrutura
 
 - `app/` — interface Gradio e integração da aplicação.
 - `src/` — roteamento, recuperação, geração, cálculos e utilitários.
-- `data/v3_definitivo/` — snapshot de índices e dados processados de referência.
+- `data/v3_definitivo/ — artefatos de dados utilizados no desenvolvimento, não incluídos nesta versão pública.
 - `scripts/` — rotinas de inicialização e apoio.
 - `testes/` — testes automatizados.
 - `ARQUITETURA.md` e `CORPUS_INVENTORY.md` — documentação técnica do projeto.
