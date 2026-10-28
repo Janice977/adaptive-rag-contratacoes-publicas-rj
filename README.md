@@ -57,12 +57,17 @@ Para executar testes que não dependem diretamente do serviço LLM (podem exigir
 ```bash
 python -m pytest -q -o addopts= -m "not llm" --ignore=testes/teste_integracao.py
 ```
-
 ## Demonstração em vídeo
 
-🎥 **Vídeo de até 5 minutos: [INSERIR LINK APÓS GRAVAÇÃO]**
+🎥 **Apresentação do projeto (até 5 minutos):**
 
-O vídeo deve mostrar o problema, a solução, as tecnologias e uma breve demonstração real da interface. Não inclua tokens, credenciais ou dados pessoais na gravação.
+[▶️ Assista à apresentação do Adaptive RAG](https://youtu.be/_761VHkUPPA)
+
+Neste vídeo, apresento o problema abordado pelo projeto Adaptive RAG para Contratações Públicas do Estado do Rio de Janeiro, a solução desenvolvida, as principais tecnologias utilizadas, a arquitetura, os exemplos de aplicação e os resultados.
+
+Também destaco minha contribuição na coleta, organização e versionamento das bases de conhecimento.
+
+O projeto foi desenvolvido coletivamente durante a Residência em Inteligência Artificial.
 
 ## Exemplos de perguntas
 
