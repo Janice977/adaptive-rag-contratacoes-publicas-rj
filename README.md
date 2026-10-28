@@ -92,6 +92,5 @@ Projeto desenvolvido coletivamente por:
 - Luiz Carlos Gomes da Silva Júnior
 - Maria Eduarda Ribeiro da Silva
 
-**Usernames dos demais integrantes:** adicionar após confirmação, para evitar atribuições incorretas.
 
 O código e a autoria coletiva devem ser respeitados. **Nenhuma licença de reutilização foi atribuída nesta versão**, pendente de alinhamento com a equipe.
