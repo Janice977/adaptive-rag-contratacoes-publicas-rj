@@ -5,8 +5,7 @@
 O corpus bruto v3 possui oito arquivos. O pacote posterior à correção do
 fatiamento possui 2.172 chunks e índices alinhados.
 
-Distribuição e metadados medidos:
-[Auditoria do pacote](docs/AUDITORIA_PACOTE_2172_2026-10-19.json).
+A distribuição e os metadados do corpus foram verificados na auditoria realizada durante o desenvolvimento. O arquivo detalhado de auditoria não está incluído nesta versão pública do repositório.
 
 Os cálculos usam os CSV completos, não apenas os 519 chunks agregados.
 O PCA disponibilizado contém 36.994 linhas; o recorte de ano e UF está
@@ -23,7 +22,7 @@ no manifesto não comprovam preenchimento nos chunks.
 Metadados vazios não demonstram ausência da informação no texto original.
 A auditoria registra campos vazios sem preencher valores por suposição.
 
-Restauração e limitações: [guia atual](docs/GUIA_RESTAURACAO_2172.md).
+O guia de restauração utilizado durante o desenvolvimento não está incluído nesta versão pública do repositório.
 
 
 ## Estado atual do corpus
