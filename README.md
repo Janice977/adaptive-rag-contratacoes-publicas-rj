@@ -22,7 +22,7 @@ Na versão apresentada no Demo Day, o corpus de referência foi descrito com 2.1
 
 - `app/` — interface Gradio e integração da aplicação.
 - `src/` — roteamento, recuperação, geração, cálculos e utilitários.
-- `data/v3_definitivo/ — artefatos de dados utilizados no desenvolvimento, não incluídos nesta versão pública.
+- `data/v3_definitivo/` — artefatos de dados utilizados no desenvolvimento, não incluídos nesta versão pública.
 - `scripts/` — rotinas de inicialização e apoio.
 - `testes/` — testes automatizados.
 - `ARQUITETURA.md` e `CORPUS_INVENTORY.md` — documentação técnica do projeto.
