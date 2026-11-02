@@ -77,6 +77,28 @@ O projeto foi desenvolvido coletivamente durante a Residência em Inteligência 
 
 Os resultados dependem do corpus disponível e do ambiente de execução. Respostas e citações devem ser conferidas nas fontes.
 
+##  Como avaliar este portfólio
+
+Este repositório apresenta uma versão individual de portfólio de um projeto coletivo desenvolvido durante a Residência em Inteligência Artificial — PUC-Rio / Instituto ECOA.
+
+###  Materiais disponíveis
+
+- [Guia do portfólio](GUIA_PORTFOLIO.md) — visão geral, evidências e contribuição individual.
+- [Arquitetura da solução](ARQUITETURA.md) — componentes e estratégias de recuperação.
+- [Inventário das bases de conhecimento](CORPUS_INVENTORY.md) — organização e escopo dos dados.
+- [Código da aplicação](app/) — interface Gradio e integração.
+- [Testes automatizados](testes/) — cenários de validação presentes no projeto.
+
+###  Minha contribuição
+
+Atuei na coleta, organização e versionamento das bases de conhecimento utilizadas no projeto, contribuindo para a preparação dos dados de referência e para a organização dos materiais da solução.
+
+###  Limitações de reprodução
+
+Os dados normalizados e índices do ambiente acadêmico original não estão disponíveis integralmente neste repositório público. A execução local independente ainda não foi validada; por isso, a documentação e a demonstração em vídeo são os principais recursos de avaliação do projeto.
+
+O desenvolvimento foi coletivo, e as contribuições da equipe devem ser reconhecidas.
+  
 ## Limitações
 
 A solução trabalha com um **snapshot** de dados; não substitui análise jurídica ou auditoria. A disponibilidade do modelo remoto, a compatibilidade dos embeddings com os índices e a configuração local afetam a execução. O sistema pode precisar solicitar esclarecimentos e pode não responder a perguntas fora do recorte.
